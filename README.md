@@ -6,16 +6,16 @@ Code repository for paper named "Neural network multi-component gas mixture anal
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+![gasmixture](https://img.shields.io/badge/Gas%20Mixture-Methane%2C%20Acetone%20%26%20Water-brightgreen.svg)
+![Modification](https://img.shields.io/badge/Lastmodified-Today-brightgreen.svg)
+![Author](https://img.shields.io/badge/Author-Linbo%20Tian-orange.svg)
+![MIT License](https://img.shields.io/apm/l/vim-mode.svg)
+![features](https://img.shields.io/badge/Neural%20Network-Overlapping%20absorption%20features-blue.svg)
 
 
 <p align="center">
   <a href="https://github.com/Popsama/Neural-network-multi-component-gas-mixture-analysis-with-broadband-dual-frequency-comb/blob/main/logo.png">
-    <img src="D:\2020桌面文件\2022年度\2022论文发表\Code_repository\logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Popsama/Neural-network-multi-component-gas-mixture-analysis-with-broadband-dual-frequency-comb/blob/main/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Correponding source code</h3>
